@@ -1,0 +1,11 @@
+/overlays
+*/target
+*/.settings
+*/.classpath
+*/.project
+*/*.iml
+*/*.log
+*/*.ipr
+*/*.iws
+*/build
+*/logs
